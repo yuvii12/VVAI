@@ -1,0 +1,36 @@
+{
+  "title": "Quick Customer Lines (Agent Revision)",
+  "documentNumber": 14,
+  "lines": [
+    {
+      "term": "Land Area",
+      "hindiMeaning": "जमीन का कुल area",
+      "englishDefinition": "Total demarcated land parcel area for the property or plot."
+    },
+    {
+      "term": "Built-up Area",
+      "hindiMeaning": "घर का कुल बना हुआ / covered area",
+      "englishDefinition": "Total covered construction area including internal rooms, external walls, and duct shafts."
+    },
+    {
+      "term": "Carpet Area",
+      "hindiMeaning": "घर के अंदर उपयोग करने योग्य floor area",
+      "englishDefinition": "Net usable floor area inside internal walls, excluding balcony and wall thickness."
+    },
+    {
+      "term": "Super Built-up",
+      "hindiMeaning": "Built-up + applicable common/covered area का हिस्सा",
+      "englishDefinition": "Built-up area plus proportional share of common areas like corridors, staircases, and lobby."
+    },
+    {
+      "term": "RERA",
+      "hindiMeaning": "Real estate regulation और customer protection से जुड़ा कानून",
+      "englishDefinition": "Real Estate (Regulation and Development) Act for transparency and buyer protection."
+    },
+    {
+      "term": "Payment Schedule",
+      "hindiMeaning": "Construction stages के अनुसार percentage-based payment",
+      "englishDefinition": "Structured milestone-linked installment payment linked to physical construction progress."
+    }
+  ]
+}

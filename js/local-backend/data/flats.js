@@ -1,0 +1,172 @@
+/* Data file: backend/data/flats.json */
+VVServer.defineData("data/flats.json", [
+  {
+    "id": "flat_nano",
+    "modelName": "Nano",
+    "fullName": "1 BHK Flat (Nano)",
+    "propertyType": "Flat",
+    "bhk": 1,
+    "superBuiltUpArea": "500 sqft.",
+    "superBuiltUpAreaSqft": 500,
+    "builtUpArea": "350 sqft.",
+    "builtUpAreaSqft": 350,
+    "carpetArea": "325 sqft.",
+    "carpetAreaSqft": 325,
+    "configuration": "1 BHK Flat",
+    "roomSpecifications": [
+      {
+        "space": "Drawing and Dining With Open kitchen",
+        "dimensions": "15'11\" × 10'0\"",
+        "remarks": "Kitchen Slab: 6'6\" × 1'6\""
+      },
+      {
+        "space": "Bedroom",
+        "dimensions": "11'06\" × 10'0\"",
+        "remarks": "Well-proportioned Bedroom"
+      },
+      {
+        "space": "Toilet",
+        "dimensions": "4'00\" × 6'6\"",
+        "remarks": "Bathroom"
+      },
+      {
+        "space": "Balcony",
+        "dimensions": "4'5\" × 3'6\"",
+        "remarks": "Private Balcony"
+      }
+    ],
+    "parking": [
+      {
+        "vehicleType": "Bike",
+        "dimensions": "5'0\" × 8'0\"",
+        "areaSqft": 40
+      },
+      {
+        "vehicleType": "Car",
+        "dimensions": "8'6\" × 14'6\"",
+        "areaSqft": 126
+      }
+    ]
+  },
+  {
+    "id": "flat_ganga",
+    "modelName": "Ganga",
+    "fullName": "2 BHK Flat (Ganga)",
+    "propertyType": "Flat",
+    "bhk": 2,
+    "superBuiltUpArea": "700 sqft.",
+    "superBuiltUpAreaSqft": 700,
+    "builtUpArea": "510 sqft.",
+    "builtUpAreaSqft": 510,
+    "carpetArea": "450 sqft.",
+    "carpetAreaSqft": 450,
+    "configuration": "2 BHK Flat",
+    "roomSpecifications": [
+      {
+        "space": "Drawing and Dining",
+        "dimensions": "13'09\" × 10'0\"",
+        "remarks": "Family Living and Dining Area"
+      },
+      {
+        "space": "Open kitchen",
+        "dimensions": "6'09\" × 5'0\"",
+        "remarks": "Functional Open Kitchen"
+      },
+      {
+        "space": "Bedroom 1",
+        "dimensions": "10'00\" × 11'0\"",
+        "remarks": "Primary Bedroom"
+      },
+      {
+        "space": "Bedroom 2",
+        "dimensions": "10'00\" × 11'0\"",
+        "remarks": "Second Bedroom"
+      },
+      {
+        "space": "Toilet",
+        "dimensions": "6'4\" × 4'7\"",
+        "remarks": "Full Bathroom"
+      },
+      {
+        "space": "Balcony",
+        "dimensions": "8'3\" × 3'0\"",
+        "remarks": "Spacious Front Balcony"
+      }
+    ],
+    "parking": [
+      {
+        "vehicleType": "Bike",
+        "dimensions": "5'0\" × 8'0\"",
+        "areaSqft": 40
+      },
+      {
+        "vehicleType": "Car",
+        "dimensions": "8'6\" × 14'6\"",
+        "areaSqft": 126
+      }
+    ]
+  },
+  {
+    "id": "flat_adity",
+    "modelName": "Adity",
+    "fullName": "3 BHK Flat (Adity)",
+    "propertyType": "Flat",
+    "bhk": 3,
+    "superBuiltUpArea": "1100 sqft.",
+    "superBuiltUpAreaSqft": 1100,
+    "builtUpArea": "750 sqft.",
+    "builtUpAreaSqft": 750,
+    "carpetArea": "670 sqft.",
+    "carpetAreaSqft": 670,
+    "configuration": "3 BHK Flat",
+    "roomSpecifications": [
+      {
+        "space": "Drawing and Dining",
+        "dimensions": "14'07\" × 8'11\"",
+        "remarks": "Main Living and Dining Hall"
+      },
+      {
+        "space": "Kitchen",
+        "dimensions": "5'3\" × 7'3\"",
+        "remarks": "Dedicated Kitchen"
+      },
+      {
+        "space": "1. Master Bedroom + Toilet",
+        "dimensions": "Master Bed: 10'02\" × 12'8\" | Toilet: 4'-6\" × 10'-1\"",
+        "remarks": "Attached Master Bathroom Suite"
+      },
+      {
+        "space": "2. Bedroom",
+        "dimensions": "10'06\" × 8'10\"",
+        "remarks": "Second Bedroom"
+      },
+      {
+        "space": "3. Bedroom",
+        "dimensions": "14'07\" × 8'10\"",
+        "remarks": "Third Bedroom"
+      },
+      {
+        "space": "Common Toilet",
+        "dimensions": "5'3\" × 10'1\"",
+        "remarks": "Common Family Bathroom"
+      },
+      {
+        "space": "Wide Balcony",
+        "dimensions": "10'2\" × 3'6\"",
+        "remarks": "Wide Outdoor Balcony"
+      }
+    ],
+    "parking": [
+      {
+        "vehicleType": "Bike",
+        "dimensions": "5'0\" × 8'0\"",
+        "areaSqft": 40
+      },
+      {
+        "vehicleType": "Car",
+        "dimensions": "8'6\" × 14'6\"",
+        "areaSqft": 126
+      }
+    ]
+  }
+]);

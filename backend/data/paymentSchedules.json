@@ -1,0 +1,64 @@
+{
+  "formula": {
+    "title": "Payment Calculation Formula",
+    "hindiDescription": "किसी भी Unit Cost पर percentage से amount निकालें",
+    "equation": "Payment Amount = Total Unit Cost × Payment Percentage ÷ 100",
+    "example": {
+      "unitCost": 4000000,
+      "percentage": 10,
+      "calculation": "40,00,000 × 10 ÷ 100 = 4,00,000",
+      "result": 400000
+    },
+    "customerLine": "Payment construction के अलग-अलग stages पर तय percentage के अनुसार होती है।"
+  },
+  "schedules": {
+    "simplex": {
+      "id": "simplex",
+      "name": "Simplex Payment Schedule",
+      "documentNumber": 10,
+      "totalPercentage": 100,
+      "stages": [
+        { "stageNumber": 1, "stage": "Booking Amount", "percentage": 6, "description": "Token / Booking confirmation stage" },
+        { "stageNumber": 2, "stage": "Booking के 30 दिन के अंदर", "percentage": 34, "description": "Within 30 days of initial booking" },
+        { "stageNumber": 3, "stage": "Plinth Level", "percentage": 19, "description": "Foundation and plinth completion" },
+        { "stageNumber": 4, "stage": "Ground Floor Roof Level", "percentage": 19, "description": "Ground floor casting and roof slab" },
+        { "stageNumber": 5, "stage": "Finishing Start", "percentage": 19, "description": "Commencement of plastering, flooring & fittings" },
+        { "stageNumber": 6, "stage": "Handover से 30 दिन पहले", "percentage": 3, "description": "Final inspection and pre-handover notice" }
+      ]
+    },
+    "bungalow": {
+      "id": "bungalow",
+      "name": "Bungalow Payment Schedule",
+      "documentNumber": 11,
+      "totalPercentage": 100,
+      "stages": [
+        { "stageNumber": 1, "stage": "Booking Amount", "percentage": 6, "description": "Initial booking confirmation" },
+        { "stageNumber": 2, "stage": "Booking के 30 दिन के अंदर", "percentage": 27, "description": "Agreement execution within 30 days" },
+        { "stageNumber": 3, "stage": "Plinth Level", "percentage": 16, "description": "Plinth and ground foundation casting" },
+        { "stageNumber": 4, "stage": "Ground Floor Roof Level", "percentage": 16, "description": "Ground floor RCC slab completion" },
+        { "stageNumber": 5, "stage": "First Floor Roof Level", "percentage": 16, "description": "First floor RCC slab completion" },
+        { "stageNumber": 6, "stage": "Finishing Start", "percentage": 16, "description": "Interior & exterior finishing start" },
+        { "stageNumber": 7, "stage": "Handover से 30 दिन पहले", "percentage": 3, "description": "30 days before keys handover" }
+      ]
+    },
+    "flat_2_3_bhk": {
+      "id": "flat_2_3_bhk",
+      "name": "2 BHK / 3 BHK Flat Payment Schedule",
+      "documentNumber": 12,
+      "totalPercentage": 100,
+      "stages": [
+        { "stageNumber": 1, "stage": "Booking Amount", "percentage": 4, "description": "Booking token amount" },
+        { "stageNumber": 2, "stage": "Booking के 30 दिन के अंदर", "percentage": 21, "description": "Within 30 days of booking allocation" },
+        { "stageNumber": 3, "stage": "Plinth Level", "percentage": 10, "description": "Substructure plinth level completion" },
+        { "stageNumber": 4, "stage": "Ground Floor Roof Level", "percentage": 10, "description": "Ground floor casting completed" },
+        { "stageNumber": 5, "stage": "First Floor Roof Level", "percentage": 10, "description": "First floor roof slab completed" },
+        { "stageNumber": 6, "stage": "Second Floor Roof Level", "percentage": 8, "description": "Second floor roof slab completed" },
+        { "stageNumber": 7, "stage": "Third Floor Roof Level", "percentage": 8, "description": "Third floor roof slab completed" },
+        { "stageNumber": 8, "stage": "Fourth Floor Roof Level", "percentage": 8, "description": "Fourth floor roof slab completed" },
+        { "stageNumber": 9, "stage": "Fifth Floor Roof Level", "percentage": 8, "description": "Fifth floor roof slab completed" },
+        { "stageNumber": 10, "stage": "Finishing Start", "percentage": 8, "description": "Finishing work commencement" },
+        { "stageNumber": 11, "stage": "Handover से 30 दिन पहले", "percentage": 5, "description": "Final readiness and registry handover" }
+      ]
+    }
+  }
+}

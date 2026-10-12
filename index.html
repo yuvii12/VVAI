@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vastu Vihar — Official Information &amp; AI Assistant</title>
+    <link rel="icon" type="image/png" href="assets/images/vastu_logo.png">
+
+    <!-- Fonts (fall back to system fonts when offline) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+
+  <body>
+    <!-- The whole application is drawn into this element by js/app.js -->
+    <div id="app"></div>
+
+    <noscript>This application needs JavaScript enabled.</noscript>
+
+    <!-- =====================================================
+         1. CONFIGURATION  (edit js/config.js to change modes)
+    ====================================================== -->
+    <script src="js/config.js"></script>
+
+    <!-- =====================================================
+         2. LOCAL BACKEND  (the original Node/Express backend,
+            running inside the browser - see README.md)
+            Remove this whole block if you run the real backend
+            and set USE_LOCAL_BACKEND to false in js/config.js.
+    ====================================================== -->
+    <!-- Loader + replacements for Node packages -->
+    <script src="js/vendor/bcrypt.js"></script>
+    <script src="js/local-backend/runtime/module-loader.js"></script>
+    <script src="js/local-backend/runtime/express.js"></script>
+    <script src="js/local-backend/runtime/node-modules.js"></script>
+
+    <!-- Data files (originally backend/data/*.json) -->
+    <script src="js/local-backend/data/bungalows.js"></script>
+    <script src="js/local-backend/data/flats.js"></script>
+    <script src="js/local-backend/data/buildingSpecifications.js"></script>
+    <script src="js/local-backend/data/locations.js"></script>
+    <script src="js/local-backend/data/knowledge.js"></script>
+    <script src="js/local-backend/data/officialSiteAddresses.js"></script>
+
+    <!-- Backend source (originally backend/*.js) -->
+    <script src="js/local-backend/lib/store.js"></script>
+    <script src="js/local-backend/middleware/auth.js"></script>
+    <script src="js/local-backend/services/ai/localAiEngine.js"></script>
+    <script src="js/local-backend/services/ai/aiService.js"></script>
+    <script src="js/local-backend/services/gst/gstEngine.js"></script>
+    <script src="js/local-backend/services/documents/documentParser.js"></script>
+    <script src="js/local-backend/services/documents/documentExtractor.js"></script>
+    <script src="js/local-backend/services/documents/documentStore.js"></script>
+    <script src="js/local-backend/routes/auth.js"></script>
+    <script src="js/local-backend/routes/ai.js"></script>
+    <script src="js/local-backend/routes/projects.js"></script>
+    <script src="js/local-backend/routes/properties.js"></script>
+    <script src="js/local-backend/routes/siteVisits.js"></script>
+    <script src="js/local-backend/routes/bookings.js"></script>
+    <script src="js/local-backend/routes/gst.js"></script>
+    <script src="js/pages/price-calculator.js"></script>
+    <script src="js/local-backend/routes/documents.js"></script>
+    <script src="js/local-backend/routes/knowledge.js"></script>
+    <script src="js/local-backend/routes/users.js"></script>
+    <script src="js/local-backend/routes/reports.js"></script>
+    <script src="js/local-backend/routes/audit.js"></script>
+    <script src="js/local-backend/server.js"></script>
+
+    <!-- Makes fetch("/api/...") talk to the local backend -->
+    <script src="js/local-backend/fetch-bridge.js"></script>
+
+    <!-- =====================================================
+         3. FRONTEND
+    ====================================================== -->
+    <!-- Shared helpers -->
+    <script src="js/utils.js"></script>
+    <script src="js/icons.js"></script>
+    <script src="js/api.js"></script>
+    <script src="js/voice.js"></script>
+    <script src="js/components.js"></script>
+
+    <!-- Pages -->
+    <script src="js/pages/login.js"></script>
+    <script src="js/pages/dashboard.js"></script>
+    <script src="js/pages/ai-assistant.js"></script>
+    <script src="js/pages/projects.js"></script>
+    <script src="js/pages/properties.js"></script>
+    <script src="js/pages/amenities.js"></script>
+    <script src="js/pages/gst-calculator.js"></script>
+    <script src="js/pages/price-calculator.js"></script>
+    <script src="js/pages/documents.js"></script>
+    <script src="js/pages/user-management.js"></script>
+    <script src="js/pages/knowledge-base.js"></script>
+
+    <!-- Application core (must be last) -->
+    <script src="js/app.js"></script>
+  </body>
+</html>

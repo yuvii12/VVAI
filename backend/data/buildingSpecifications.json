@@ -1,0 +1,257 @@
+{
+  "specifications": [
+    {
+      "particular": "Structure",
+      "deluxe": "R.C.C Frame",
+      "luxury": "R.C.C Frame",
+      "category": "Structure & Walls"
+    },
+    {
+      "particular": "Wall",
+      "deluxe": "5\" Brick Work",
+      "luxury": "5\" Brick Work",
+      "category": "Structure & Walls"
+    },
+    {
+      "particular": "Flooring",
+      "deluxe": "24\"x24\" Tiles",
+      "luxury": "24\"x48\" Tiles",
+      "category": "Flooring & Finishes"
+    },
+    {
+      "particular": "Wall Interior",
+      "deluxe": "Wall Putty ( In House)",
+      "luxury": "Wall Putty With Primer ( No Paint)",
+      "category": "Painting & Finishes"
+    },
+    {
+      "particular": "Wall Exterior",
+      "deluxe": "Wall Texture Front Only",
+      "luxury": "Wall Texture All Side Outer Wall",
+      "category": "Painting & Finishes"
+    },
+    {
+      "particular": "Bathroom Tiles",
+      "deluxe": "Tiles upto 5'",
+      "luxury": "Tiles upto 7'",
+      "category": "Tiles & Bathroom"
+    },
+    {
+      "particular": "Kitchen Wall Tiles",
+      "deluxe": "2' Height from Slab Hight",
+      "luxury": "7' Height - From Slab Hight",
+      "category": "Tiles & Bathroom"
+    },
+    {
+      "particular": "Kitchen Top",
+      "deluxe": "Black Granite with Half Mould",
+      "luxury": "Black & Red Mix Granite with Full Molding",
+      "category": "Kitchen & Fixtures"
+    },
+    {
+      "particular": "CP Fitting",
+      "deluxe": "Normal ( Non Branded)",
+      "luxury": "Hindware",
+      "category": "Sanitary & Plumbing"
+    },
+    {
+      "particular": "Hall Basin",
+      "deluxe": "Basin Only ( Non Branded)",
+      "luxury": "Pedstal Basin (Hindware)",
+      "category": "Sanitary & Plumbing"
+    },
+    {
+      "particular": "Door Frame",
+      "deluxe": "Red Stone Frame",
+      "luxury": "Granite Stone Frame",
+      "category": "Doors & Windows"
+    },
+    {
+      "particular": "Door Sutter",
+      "deluxe": "Flush Door",
+      "luxury": "Flush Door with Laminate",
+      "category": "Doors & Windows"
+    },
+    {
+      "particular": "Windows",
+      "deluxe": "Aluminum",
+      "luxury": "UPVC (2-Track)",
+      "category": "Doors & Windows"
+    },
+    {
+      "particular": "Stair Railing",
+      "deluxe": "S.S Railing (202)",
+      "luxury": "S.S Railing (304)",
+      "category": "Staircase"
+    },
+    {
+      "particular": "Stair Top",
+      "deluxe": "Granite with Tiles",
+      "luxury": "Granite with Full Molding",
+      "category": "Staircase"
+    },
+    {
+      "particular": "No. of AC Point",
+      "deluxe": "1-Bedroom",
+      "luxury": "All Bedroom",
+      "category": "Electrical"
+    },
+    {
+      "particular": "Electric Fitting",
+      "deluxe": "Modular (Great-White)",
+      "luxury": "Modular Gray (Great-White)",
+      "category": "Electrical"
+    },
+    {
+      "particular": "Inverter Point",
+      "deluxe": "NA",
+      "luxury": "Yes",
+      "category": "Electrical"
+    },
+    {
+      "particular": "Roof Top",
+      "deluxe": "NA",
+      "luxury": "Heavy Duty Tile (1'x1')",
+      "category": "Roofing & Exterior"
+    },
+    {
+      "particular": "Parking Area",
+      "deluxe": "I.P.S ((Cemented Plaster)",
+      "luxury": "Parking Tiles (1'X1')",
+      "category": "Roofing & Exterior"
+    }
+  ],
+  "structuralData": [
+    {
+      "sl": 1,
+      "item": "Plinth",
+      "type": "Standard Size",
+      "value": "0’8” × 0’10”"
+    },
+    {
+      "sl": 2,
+      "item": "Slab",
+      "type": "Standard Size",
+      "value": "100 MM (4\")"
+    },
+    {
+      "sl": 3,
+      "item": "Beam",
+      "type": "Standard Size",
+      "value": "0’8” × 0’12”"
+    },
+    {
+      "sl": 4,
+      "item": "Column",
+      "type": "Standard Size",
+      "value": "0’8” × 0’10”"
+    },
+    {
+      "sl": 5,
+      "item": "Pile Cap",
+      "type": "Standard Size",
+      "value": "3’00” × 3’00”"
+    },
+    {
+      "sl": 6,
+      "item": "Foundation",
+      "type": "Foundation Type",
+      "value": "Pile Foundation / Isolated Footing"
+    },
+    {
+      "sl": 7,
+      "item": "IPS",
+      "type": "Finishing Type",
+      "value": "Cemented Plaster"
+    },
+    {
+      "sl": 8,
+      "item": "Master Plan / Floor Plan – Render",
+      "type": "Project Status",
+      "value": "Running Project"
+    }
+  ],
+  "ironRodDetails": [
+    {
+      "work": "Column",
+      "rodSize": "12 mm",
+      "quantity": "4 PC"
+    },
+    {
+      "work": "Beam / Plinth",
+      "rodSize": "12 mm",
+      "quantity": "4 PC"
+    },
+    {
+      "work": "Footing",
+      "rodSize": "10 mm",
+      "quantity": "Standard"
+    },
+    {
+      "work": "Chhat / Roof Slab",
+      "rodSize": "8 mm",
+      "quantity": "Standard"
+    }
+  ],
+  "materials": [
+    {
+      "material": "Bricks",
+      "detail": "Red Bricks"
+    },
+    {
+      "material": "Cement",
+      "detail": "Dalmiya / JK SUPER"
+    },
+    {
+      "material": "Iron Rod",
+      "detail": "Rungta and Hindustan"
+    }
+  ],
+  "projectAmenities": [
+    {
+      "sl": 1,
+      "amenityHindi": "मंदिर",
+      "amenityEnglish": "Temple"
+    },
+    {
+      "sl": 2,
+      "amenityHindi": "Swimming Pool",
+      "amenityEnglish": "Swimming Pool"
+    },
+    {
+      "sl": 3,
+      "amenityHindi": "Garden",
+      "amenityEnglish": "Garden"
+    },
+    {
+      "sl": 4,
+      "amenityHindi": "Open Gym",
+      "amenityEnglish": "Open Gym"
+    },
+    {
+      "sl": 5,
+      "amenityHindi": "Boundary Wall",
+      "amenityEnglish": "Boundary Wall"
+    },
+    {
+      "sl": 6,
+      "amenityHindi": "20 फीट Internal Road",
+      "amenityEnglish": "20 Feet Internal Road"
+    },
+    {
+      "sl": 7,
+      "amenityHindi": "24×7 Security Guard",
+      "amenityEnglish": "24×7 Security Guard"
+    },
+    {
+      "sl": 8,
+      "amenityHindi": "24×7 Water Supply",
+      "amenityEnglish": "24×7 Water Supply"
+    },
+    {
+      "sl": 9,
+      "amenityHindi": "Dedicated Transformer / बिजली की सुविधा",
+      "amenityEnglish": "Dedicated Transformer / Electricity Facility"
+    }
+  ]
+}

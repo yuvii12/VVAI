@@ -1,0 +1,305 @@
+/* Data file: backend/data/knowledge.json */
+VVServer.defineData("data/knowledge.json", [
+  {
+    "id": "qa_registry_definition",
+    "category": "Registry",
+    "title": "Registry Definition (रजिस्ट्री क्या होता है?)",
+    "question": "Registry क्या होता है? / What is Registry?",
+    "answer": "Property को कानूनी रूप से Buyer के नाम पर registered करने की प्रक्रिया को Registry कहते हैं। (Registry is the legal process of registering a property in the name of the buyer under government regulations.)",
+    "source": "Official Vastu Vihar Data",
+    "keywords": [
+      "registry",
+      "registry kya hota hai",
+      "what is registry",
+      "property registry",
+      "registration process",
+      "rajistry"
+    ]
+  },
+  {
+    "id": "qa_stamp_duty_charges",
+    "category": "Registry",
+    "title": "Stamp Duty & Registration Charges",
+    "question": "Registry के समय कौन-कौन से charges लगते हैं? / What charges apply during Registry?",
+    "answer": "Registry के समय applicable Stamp Duty और Registration Charges लगते हैं, जो राज्य सरकार के नियमों और circle rate / MVR के अनुसार निर्धारित होते हैं।",
+    "source": "Official Vastu Vihar Data",
+    "keywords": [
+      "stamp duty",
+      "registration charges",
+      "registry charges",
+      "kharcha",
+      "kitna charge"
+    ]
+  },
+  {
+    "id": "qa_mvr_definition",
+    "category": "Registry",
+    "title": "MVR Definition (MVR क्या होता है?)",
+    "question": "MVR क्या होता है? / What is MVR?",
+    "answer": "MVR का मतलब Minimum Value Register है। यह सरकार द्वारा तय की गई property की minimum valuation (circle rate) होती है जिसके आधार पर registration शुल्क और stamp duty की गणना की जाती है।",
+    "source": "Official Vastu Vihar Data",
+    "keywords": [
+      "mvr",
+      "mvr kya hota hai",
+      "minimum value register",
+      "what is mvr",
+      "circle rate"
+    ]
+  },
+  {
+    "id": "qa_registry_calculation",
+    "category": "Registry",
+    "title": "Registry Calculation (Registry किस आधार पर calculate होती है?)",
+    "question": "Registry किस आधार पर calculate होती है? / How is Registry calculated?",
+    "answer": "Registry सरकारी नियम और applicable MVR / property valuation के आधार पर calculate होती है। Customer Line: “Registry सरकारी नियम और applicable MVR / valuation के आधार पर calculate होती है।”",
+    "source": "Official Vastu Vihar Data",
+    "keywords": [
+      "registry calculation",
+      "registry calculate",
+      "registry kaise calculate hoti hai",
+      "customer line registry"
+    ]
+  },
+  {
+    "id": "qa_rera_definition",
+    "category": "RERA",
+    "title": "RERA Definition (RERA क्या है?)",
+    "question": "RERA क्या है? / What is RERA?",
+    "answer": "RERA का पूरा नाम Real Estate (Regulation and Development) Act है। यह केंद्र और राज्य सरकारों द्वारा real estate सेक्टर को regulate करने के लिए बनाया गया कानून है।",
+    "source": "Official Vastu Vihar Data",
+    "keywords": [
+      "rera",
+      "rera kya hai",
+      "what is rera",
+      "rera full form",
+      "real estate regulation act"
+    ]
+  },
+  {
+    "id": "qa_rera_purpose",
+    "category": "RERA",
+    "title": "RERA Purpose (RERA क्यों बनाया गया है?)",
+    "question": "RERA क्यों बनाया गया है? / Why was RERA created?",
+    "answer": "RERA property buyers के हितों की सुरक्षा, project delivery में समयबद्धता और transparency (पारदर्शिता) सुनिश्चित करने के लिए बनाया गया कानून है।",
+    "source": "Official Vastu Vihar Data",
+    "keywords": [
+      "rera purpose",
+      "rera kyu banaya gaya",
+      "rera kiske liye hai",
+      "buyer safety",
+      "transparency"
+    ]
+  },
+  {
+    "id": "qa_builder_responsibility",
+    "category": "RERA",
+    "title": "Builder Responsibility under RERA",
+    "question": "RERA के अनुसार Builder की क्या जिम्मेदारी है? / Builder responsibility under RERA",
+    "answer": "RERA के अनुसार Builder को project से जुड़ी सभी जरूरी और सही जानकारी देनी होती है, sanctioned plans के अनुसार निर्माण करना होता है और applicable RERA rules व delivery timelines का पालन करना होता है।",
+    "source": "Official Vastu Vihar Data",
+    "keywords": [
+      "builder responsibility",
+      "rera builder rules",
+      "builder ki kya jimmedari hai"
+    ]
+  },
+  {
+    "id": "qa_gst_metro",
+    "category": "GST",
+    "title": "GST Rule for Metro Cities (Patna, Kolkata)",
+    "question": "What is the GST rule for Metro cities? / Metro city me GST kitna lagta hai?",
+    "answer": "Metro Cities (जैसे Kolkata, Patna) के लिए:\n- Carpet Area 60 Sq. Meter (लगभग 646 Sq. Ft.) तक AND Property Value ₹45 लाख तक होने पर 1% GST (बिना ITC) लागू होता है।\n- यदि Carpet Area 646 Sq. Ft. से अधिक हो या Property Value ₹45 लाख से अधिक हो, तो 5% GST लागू होगा।",
+    "source": "Official Vastu Vihar Data",
+    "keywords": [
+      "gst metro",
+      "gst rule for metro",
+      "patna gst",
+      "kolkata gst",
+      "metro gst rate",
+      "1% gst metro",
+      "646 sqft"
+    ]
+  },
+  {
+    "id": "qa_gst_nonmetro",
+    "category": "GST",
+    "title": "GST Rule for Non-Metro Cities",
+    "question": "What is the GST rule for Non-Metro cities? / Non-Metro city me GST kitna lagta hai?",
+    "answer": "Non-Metro Cities (जैसे Gaya, Ranchi, Bhagalpur, Muzaffarpur, Darbhanga आदि) के लिए:\n- Carpet Area 90 Sq. Meter (लगभग 969 Sq. Ft.) तक AND Property Value ₹45 लाख तक होने पर 1% GST (बिना ITC) लागू होता है।\n- यदि Carpet Area 969 Sq. Ft. से अधिक हो या Property Value ₹45 लाख से अधिक हो, तो 5% GST लागू होगा।",
+    "source": "Official Vastu Vihar Data",
+    "keywords": [
+      "gst non-metro",
+      "non metro gst",
+      "gst rule for non metro",
+      "969 sqft",
+      "1% gst non metro",
+      "ranchi gst",
+      "gaya gst"
+    ]
+  },
+  {
+    "id": "qa_gst_property_value_rule",
+    "category": "GST",
+    "title": "GST Property Value Threshold (₹45 Lakhs)",
+    "question": "Property value par GST kaise tay hota hai?",
+    "answer": "Property Value ₹45 लाख तक होने पर (Affordable Carpet Area के अंतर्गत) 1% GST लगता है। Property Value ₹45 लाख से ज्यादा होने पर 5% GST लगता है।",
+    "source": "Official Vastu Vihar Data",
+    "keywords": [
+      "45 lakh gst",
+      "property value gst",
+      "gst slab"
+    ]
+  },
+  {
+    "id": "qa_gst_general_note",
+    "category": "GST",
+    "title": "GST General Applicability Note",
+    "question": "GST rate project par kaise verify karein?",
+    "answer": "GST की rate project और transaction की applicable conditions के अनुसार तय होती है। Note: GST की exact applicability/rate को project और transaction की applicable conditions के अनुसार verify करें।",
+    "source": "Official Vastu Vihar Data",
+    "keywords": [
+      "gst applicability",
+      "gst note",
+      "gst condition"
+    ]
+  },
+  {
+    "id": "qa_carpet_area_definition",
+    "category": "Property",
+    "title": "Carpet Area Definition (Carpet Area क्या होता है?)",
+    "question": "Carpet Area क्या होता है? / What is Carpet Area?",
+    "answer": "Carpet Area घर के अंदर का वह उपयोगी floor area (usable floor area) होता है जिसे ग्राहक वास्तव में इस्तेमाल करता है, जैसे Bedroom, Hall, Kitchen और Bathroom का अंदरूनी फर्श का area (दीवारों की मोटाई को छोड़कर)।",
+    "source": "Official Vastu Vihar Data",
+    "keywords": [
+      "carpet area",
+      "carpet area kya hota hai",
+      "usable floor area",
+      "what is carpet area"
+    ]
+  },
+  {
+    "id": "qa_builtup_area_definition",
+    "category": "Property",
+    "title": "Built-up Area Definition (Built-up Area क्या होता है?)",
+    "question": "Built-up Area क्या होता है? / What is Built-up Area?",
+    "answer": "घर का कुल बना हुआ और covered area। इसमें घर के बने हिस्से के साथ दीवारें और covered areas शामिल होते हैं।\nExample: Land Area 1600 Sq. Ft. और G+1 घर का कुल Built-up Area 2200 Sq. Ft. हो सकता है।",
+    "source": "Official Vastu Vihar Data",
+    "keywords": [
+      "built-up area",
+      "built up area",
+      "builtup area kya hota hai",
+      "total covered area"
+    ]
+  },
+  {
+    "id": "qa_land_area_definition",
+    "category": "Property",
+    "title": "Land Area Definition (Land Area क्या होता है?)",
+    "question": "Land Area क्या होता है? / What is Land Area / Plot Area?",
+    "answer": "जिस जमीन पर घर बना है, उस पूरी जमीन का कुल area (Total Plot Area)।\nExample: Land Area = 1600 Sq. Ft.",
+    "source": "Official Vastu Vihar Data",
+    "keywords": [
+      "land area",
+      "plot area",
+      "land area kya hota hai",
+      "zameen ka area"
+    ]
+  },
+  {
+    "id": "qa_super_builtup_definition",
+    "category": "Property",
+    "title": "Super Built-up Area Definition",
+    "question": "Super Built-up Area क्या होता है? / What is Super Built-up Area?",
+    "answer": "Built-up Area के साथ applicable common/covered area का proportionate हिस्सा भी शामिल हो सकता है।\nExample: Built-up 1000 Sq. Ft. + common/covered हिस्सा 200 Sq. Ft. = 1200 Sq. Ft.",
+    "source": "Official Vastu Vihar Data",
+    "keywords": [
+      "super built-up area",
+      "super built up area kya hota hai",
+      "common area proportionate"
+    ]
+  },
+  {
+    "id": "qa_payment_calculation",
+    "category": "FAQ",
+    "title": "Payment Calculation Formula",
+    "question": "Payment Amount कैसे calculate करते हैं? / How to calculate payment amount?",
+    "answer": "Payment Amount = Total Unit Cost × Payment Percentage ÷ 100\nExample: ₹40,00,000 × 10 ÷ 100 = ₹4,00,000",
+    "source": "Official Vastu Vihar Data",
+    "keywords": [
+      "payment calculation",
+      "payment amount kaise calculate",
+      "payment formula"
+    ]
+  },
+  {
+    "id": "qa_home_loan_documents",
+    "category": "Home Loan",
+    "title": "Home Loan Required Documents",
+    "question": "What documents are required for home loan? / Home loan ke liye kya documents chahiye?",
+    "answer": "Home Loan के लिए निम्नलिखित official documents आवश्यक होते हैं:\n1. पिछले 3 साल का ITR (Income Tax Return)\n2. पिछले 6 महीने का Bank Account Statement\n3. Salaried व्यक्ति के लिए: Form 16 और Salary Slips\n4. पहचान और पते का प्रमाण: Aadhaar Card एवं PAN Card\n5. Passport-size Photographs\n6. Self-employed / Business के लिए: Business Registration Proof, P&L Statement और Balance Sheet\n(Bank profile और lending norms के अनुसार बैंक अतिरिक्त दस्तावेज मांग सकता है।)",
+    "source": "Official Vastu Vihar Data",
+    "keywords": [
+      "home loan documents",
+      "loan documents",
+      "home loan ke liye documents",
+      "documents required for home loan",
+      "loan papers",
+      "itr form 16 bank statement"
+    ]
+  },
+  {
+    "id": "qa_building_specs_overview",
+    "category": "Building Specification",
+    "title": "Building Specifications Overview (Deluxe vs Luxury)",
+    "question": "What are the building specifications? / Building specifications kya hain?",
+    "answer": "Vastu Vihar 2 प्रमुख standard specifications offer करता है - Deluxe एवं Luxury:\n- Structure: R.C.C Frame (दोनों में)\n- Wall: 5\" Brick Work\n- Flooring: Deluxe में 24\"x24\" Tiles, Luxury में 24\"x48\" Tiles\n- Wall Interior: Deluxe में Wall Putty (In House), Luxury में Wall Putty With Primer (No Paint)\n- Wall Exterior: Deluxe में Wall Texture Front Only, Luxury में Wall Texture All Side Outer Wall\n- Bathroom Tiles: Deluxe में 5' तक, Luxury में 7' तक\n- Kitchen Top: Deluxe में Black Granite with Half Mould, Luxury में Black & Red Mix Granite with Full Molding\n- CP Fitting: Deluxe में Normal, Luxury में Hindware\n- Windows: Deluxe में Aluminum, Luxury में UPVC (2-Track)\n- Stair Railing: Deluxe में S.S Railing (202), Luxury में S.S Railing (304)\n- AC Points: Deluxe में 1-Bedroom, Luxury में All Bedrooms\n- Electric Fitting: Modular Great-White\n- Rooftop: Luxury में Heavy Duty Tile (1'x1')",
+    "source": "Official Vastu Vihar Data",
+    "keywords": [
+      "building specifications",
+      "building specification kya hai",
+      "deluxe luxury difference",
+      "flooring",
+      "construction material"
+    ]
+  },
+  {
+    "id": "qa_construction_materials",
+    "category": "Building Specification",
+    "title": "Construction Materials & Brands (Cement, Rod, Bricks)",
+    "question": "What materials and brands are used in construction? / Cement, Rod, Bricks kaun se use hote hain?",
+    "answer": "Official Technical Standards के अनुसार Vastu Vihar निर्माण में उपयोग करता है:\n- Bricks (ईंट): Red Bricks (लाल ईंट)\n- Cement (सीमेंट): Dalmiya / JK SUPER\n- Iron Rod (छड़ / सरिया): Rungta and Hindustan\n- Iron Rod Dimensions:\n  * Column: 12 mm (4 PC)\n  * Beam / Plinth: 12 mm (4 PC)\n  * Footing: 10 mm\n  * Chhat / Roof Slab: 8 mm\n- Plinth Size: 0’8” × 0’10”\n- Slab: 100 MM (4\")\n- Beam Size: 0’8” × 0’12”\n- Column Size: 0’8” × 0’10”\n- Pile Cap: 3’00” × 3’00”\n- Foundation: Pile Foundation / Isolated Footing",
+    "source": "Official Vastu Vihar Data",
+    "keywords": [
+      "cement",
+      "dalmiya",
+      "jk super",
+      "iron rod",
+      "rungta",
+      "hindustan",
+      "red bricks",
+      "materials used",
+      "sariya",
+      "chhad"
+    ]
+  },
+  {
+    "id": "qa_project_amenities",
+    "category": "Building Specification",
+    "title": "Official Project Amenities",
+    "question": "What amenities are available? / Project me kya amenities hain?",
+    "answer": "Vastu Vihar projects में निम्नलिखित 9 standard project amenities प्रदान की जाती हैं:\n1. मंदिर (Temple)\n2. Swimming Pool\n3. Garden (बगीचा)\n4. Open Gym\n5. Boundary Wall\n6. 20 फीट Internal Road\n7. 24×7 Security Guard\n8. 24×7 Water Supply\n9. Dedicated Transformer / बिजली की सुविधा",
+    "source": "Official Vastu Vihar Data",
+    "keywords": [
+      "amenities",
+      "project amenities",
+      "facilities",
+      "mandir",
+      "swimming pool",
+      "garden",
+      "gym",
+      "security",
+      "water supply",
+      "transformer"
+    ]
+  }
+]);

@@ -1,0 +1,2389 @@
+{
+  "projects": [
+    {
+      "id": "site_ara_ph_01_0",
+      "state": "Bihar",
+      "city": "Ara",
+      "cityNormalized": "ara",
+      "projectName": "Vastu Vihar Ara PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Tetariya Mor, Piania Road, Dakshini Akauna, Ara",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "8102921821",
+        "7488049821"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_ara_ph_02_1",
+      "state": "Bihar",
+      "city": "Ara",
+      "cityNormalized": "ara",
+      "projectName": "Vastu Vihar Ara PH-02",
+      "phase": "PH-02",
+      "siteAddress": "Patna Road, Kayamnagar Bridge, 100 Mtr. In Birampur Road, Ara",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "8102921821",
+        "7488049821"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_ara_ph_03_2",
+      "state": "Bihar",
+      "city": "Ara",
+      "cityNormalized": "ara",
+      "projectName": "Vastu Vihar Ara PH-03",
+      "phase": "PH-03",
+      "siteAddress": "Patna Road, Kayamnagar Bridge, 100 Mtr. In Birampur Road, Ara",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "8102921821",
+        "7488049821"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_aurangabad_ph_01_3",
+      "state": "Bihar",
+      "city": "Aurangabad",
+      "cityNormalized": "aurangabad",
+      "projectName": "Vastu Vihar Aurangabad PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Dalten Ganj Road, Bijauli, Behind D.A.V Public School, Aurangabad",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488041827",
+        "9386256119"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_aurangabad_ph_02_4",
+      "state": "Bihar",
+      "city": "Aurangabad",
+      "cityNormalized": "aurangabad",
+      "projectName": "Vastu Vihar Aurangabad PH-02",
+      "phase": "PH-02",
+      "siteAddress": "Patna Road, Behind Indo Public School, Aurangabad",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488041827",
+        "9386256119"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_aurangabad_ph_03_5",
+      "state": "Bihar",
+      "city": "Aurangabad",
+      "cityNormalized": "aurangabad",
+      "projectName": "Vastu Vihar Aurangabad PH-03",
+      "phase": "PH-03",
+      "siteAddress": "Patna Road, Behind Indo Public School, Aurangabad",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488041827",
+        "9386256119"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_begusarai_ph_01_6",
+      "state": "Bihar",
+      "city": "Begusarai",
+      "cityNormalized": "begusarai",
+      "projectName": "Vastu Vihar Begusarai PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Birpur Road, Pachamba, Chanwara Block Road, Begusarai",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488048703",
+        "7488048704"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_begusarai_ph_02_7",
+      "state": "Bihar",
+      "city": "Begusarai",
+      "cityNormalized": "begusarai",
+      "projectName": "Vastu Vihar Begusarai PH-02",
+      "phase": "PH-02",
+      "siteAddress": "Tilarth, PO-Tilarth, PS-Barauni, Dist. Begusarai-851122",
+      "pincode": "851122",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488048703",
+        "7488048704"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_bettiah_ph_01_8",
+      "state": "Bihar",
+      "city": "Bettiah",
+      "cityNormalized": "bettiah",
+      "projectName": "Vastu Vihar Bettiah PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Areraj Road, Near Saraswati Vidya Mandir School, Barwatsena, Bettiah",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "9386256109"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_bettiah_ph_02_9",
+      "state": "Bihar",
+      "city": "Bettiah",
+      "cityNormalized": "bettiah",
+      "projectName": "Vastu Vihar Bettiah PH-02",
+      "phase": "PH-02",
+      "siteAddress": "Areraj Road, Kathaiya Chowk, Bettiah 845438",
+      "pincode": "845438",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "6299202964"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_bhagalpur_ph_01_10",
+      "state": "Bihar",
+      "city": "Bhagalpur",
+      "cityNormalized": "bhagalpur",
+      "projectName": "Vastu Vihar Bhagalpur PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Pista Chowk, Dumka-Bounsi Road, Near Shiv Mandir, Bhagalpur",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488535249",
+        "7488538169"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_bhagalpur_ph_02_11",
+      "state": "Bihar",
+      "city": "Bhagalpur",
+      "cityNormalized": "bhagalpur",
+      "projectName": "Vastu Vihar Bhagalpur PH-02",
+      "phase": "PH-02",
+      "siteAddress": "Gonu Dham, Opp. Chauhan Public School, Near Totta Pool, Dumka-Bounsi Road, Bhagalpur",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488535249",
+        "7488538169"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_bhagalpur_ph_03_12",
+      "state": "Bihar",
+      "city": "Bhagalpur",
+      "cityNormalized": "bhagalpur",
+      "projectName": "Vastu Vihar Bhagalpur PH-03",
+      "phase": "PH-03",
+      "siteAddress": "Near Chotki, Maksashpur, Bhagalpur, Bihar 812005",
+      "pincode": "812005",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488535249",
+        "7488538169"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_bihar_sharif_ph_01_13",
+      "state": "Bihar",
+      "city": "Bihar Sharif",
+      "cityNormalized": "bihar_sharif",
+      "projectName": "Vastu Vihar Bihar Sharif PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Korai Road, Deep Nagar, Nalanda, Bihar Sharif 803111",
+      "pincode": "803111",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "8102921825"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_bihar_sharif_ph_02_14",
+      "state": "Bihar",
+      "city": "Bihar Sharif",
+      "cityNormalized": "bihar_sharif",
+      "projectName": "Vastu Vihar Bihar Sharif PH-02",
+      "phase": "PH-02",
+      "siteAddress": "Gulab Bigha, Near Nalanda Police Station, Mohanpur, Bihar Sharif 803111",
+      "pincode": "803111",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "8102921825"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_bihar_sharif_ph_03_15",
+      "state": "Bihar",
+      "city": "Bihar Sharif",
+      "cityNormalized": "bihar_sharif",
+      "projectName": "Vastu Vihar Bihar Sharif PH-03",
+      "phase": "PH-03",
+      "siteAddress": "Fatehpur, Bihar Sharif - Rajgir Rd, Near Mahavihar Fuel Station, Panhessa, Bihar 803111",
+      "pincode": "803111",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "8102921825"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_buxar_ph_01_16",
+      "state": "Bihar",
+      "city": "Buxar",
+      "cityNormalized": "buxar",
+      "projectName": "Vastu Vihar Buxar PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Hukha Lalganj Etarhi Road, Buxar",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "8102921842"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_buxar_ph_02_17",
+      "state": "Bihar",
+      "city": "Buxar",
+      "cityNormalized": "buxar",
+      "projectName": "Vastu Vihar Buxar PH-02",
+      "phase": "PH-02",
+      "siteAddress": "Hukha Etarhi Road, Buxar-802103",
+      "pincode": "802103",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "8102921842"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_buxar_ph_03_18",
+      "state": "Bihar",
+      "city": "Buxar",
+      "cityNormalized": "buxar",
+      "projectName": "Vastu Vihar Buxar PH-03",
+      "phase": "PH-03",
+      "siteAddress": "Harikishunpur, Patna Buxar Highway, Buxar",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "8102921842"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_darbhanga_ph_01_19",
+      "state": "Bihar",
+      "city": "Darbhanga",
+      "cityNormalized": "darbhanga",
+      "projectName": "Vastu Vihar Darbhanga PH-01",
+      "phase": "PH-01",
+      "siteAddress": "NH-57, Towas Muzaffarpur, Near Hira Petrol Pump & Reliance Petrol Pump, Shahpur Chakka Chowk, Darbhanga",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488535211",
+        "7488538162",
+        "8102921835"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_darbhanga_ph_02_20",
+      "state": "Bihar",
+      "city": "Darbhanga",
+      "cityNormalized": "darbhanga",
+      "projectName": "Vastu Vihar Darbhanga PH-02",
+      "phase": "PH-02",
+      "siteAddress": "NH-105, Towas Jay Nagar Madhubani Highway, Koyla Asthan, Darbhanga",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488538162",
+        "7488047033"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_darbhanga_ph_03_21",
+      "state": "Bihar",
+      "city": "Darbhanga",
+      "cityNormalized": "darbhanga",
+      "projectName": "Vastu Vihar Darbhanga PH-03",
+      "phase": "PH-03",
+      "siteAddress": "Sonki Road, Rampur Chowk, Dhoi Ghat, Darbhanga",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488538162",
+        "7488047033"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_dehri_on_sone_ph_01_22",
+      "state": "Bihar",
+      "city": "Dehri-On-Sone",
+      "cityNormalized": "dehri_on_sone",
+      "projectName": "Vastu Vihar Dehri-On-Sone PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Tilouthu Road, Near Sad Dev Jib Aashram, Katar, Dehri-On-Sone",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "9386256112",
+        "9386256113"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_dehri_on_sone_ph_02_23",
+      "state": "Bihar",
+      "city": "Dehri-On-Sone",
+      "cityNormalized": "dehri_on_sone",
+      "projectName": "Vastu Vihar Dehri-On-Sone PH-02",
+      "phase": "PH-02",
+      "siteAddress": "Tilouthu Banjari Road, Katar Badiha, Dehri-On-Sone",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "9386256112",
+        "9386256113"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_gaya_ph_02_24",
+      "state": "Bihar",
+      "city": "Gaya",
+      "cityNormalized": "gaya",
+      "projectName": "Vastu Vihar Gaya PH-02",
+      "phase": "PH-02",
+      "siteAddress": "Gaya Dobhi Road, Near Pareena Motors & D.A.V Cantt., Gaya",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488535291",
+        "8102921823"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_gaya_ph_03_25",
+      "state": "Bihar",
+      "city": "Gaya",
+      "cityNormalized": "gaya",
+      "projectName": "Vastu Vihar Gaya PH-03",
+      "phase": "PH-03",
+      "siteAddress": "Front of D.A.V School, Gaya-Wajirgunj Road, Manpur, Gaya",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488535291",
+        "7488047028"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_gaya_ph_04_26",
+      "state": "Bihar",
+      "city": "Gaya",
+      "cityNormalized": "gaya",
+      "projectName": "Vastu Vihar Gaya PH-04",
+      "phase": "PH-04",
+      "siteAddress": "Gaya Dobhi Road, Near Maharani Petrol Pump, Gaya",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488535291",
+        "7280023032"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_gaya_ph_05_27",
+      "state": "Bihar",
+      "city": "Gaya",
+      "cityNormalized": "gaya",
+      "projectName": "Vastu Vihar Gaya PH-05",
+      "phase": "PH-05",
+      "siteAddress": "Gaya Dobhi Road, Near Maharani Petrol Pump, Behind D.V.C Colony, Gaya",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488535291",
+        "7360006439"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_gaya_ph_07_28",
+      "state": "Bihar",
+      "city": "Gaya",
+      "cityNormalized": "gaya",
+      "projectName": "Vastu Vihar Gaya PH-07",
+      "phase": "PH-07",
+      "siteAddress": "Gaya Dobhi Road, In Front of Shree Ravi Shankar Ashram, Shekhwara, Gaya",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488535291",
+        "8102921823"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_gaya_ph_08_29",
+      "state": "Bihar",
+      "city": "Gaya",
+      "cityNormalized": "gaya",
+      "projectName": "Vastu Vihar Gaya PH-08",
+      "phase": "PH-08",
+      "siteAddress": "Bindas More, Near Magadh Dairy, Paimer Station Road - 823003, Gaya",
+      "pincode": "823003",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488535291",
+        "8102921823"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_gaya_ph_10_30",
+      "state": "Bihar",
+      "city": "Gaya",
+      "cityNormalized": "gaya",
+      "projectName": "Vastu Vihar Gaya PH-10",
+      "phase": "PH-10",
+      "siteAddress": "Gaya Dobhi Road, In Front of Shree Ravi Shankar Ashram, Shekhwara, Gaya",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488535291",
+        "8102921823"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_hajipur_ph_01_31",
+      "state": "Bihar",
+      "city": "Hajipur",
+      "cityNormalized": "hajipur",
+      "projectName": "Vastu Vihar Hajipur PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Paswan Chowk, Jandaha Road, Near Cipet College, Hajipur",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "8102921819",
+        "7488538151"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_hajipur_ph_02_32",
+      "state": "Bihar",
+      "city": "Hajipur",
+      "cityNormalized": "hajipur",
+      "projectName": "Vastu Vihar Hajipur PH-02",
+      "phase": "PH-02",
+      "siteAddress": "Paswan Chowk, Jandaha Road, Near Jaiprakash Evening College, Hajipur",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "8102921819",
+        "7488538151"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_hajipur_ph_03_33",
+      "state": "Bihar",
+      "city": "Hajipur",
+      "cityNormalized": "hajipur",
+      "projectName": "Vastu Vihar Hajipur PH-03",
+      "phase": "PH-03",
+      "siteAddress": "Jandaha Road, Hilalpur Chowk, Near Paswan Chowk, Hajipur 844101",
+      "pincode": "844101",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "8102921819",
+        "7488538151"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_hajipur_ph_05_34",
+      "state": "Bihar",
+      "city": "Hajipur",
+      "cityNormalized": "hajipur",
+      "projectName": "Vastu Vihar Hajipur PH-05",
+      "phase": "PH-05",
+      "siteAddress": "J.P. Evening Inter College, Near Vastu Vihar Phase-II, Industrial Area, Jandaha Road, Hajipur",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "8102921819",
+        "7488538151"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_hajipur_ph_06_35",
+      "state": "Bihar",
+      "city": "Hajipur",
+      "cityNormalized": "hajipur",
+      "projectName": "Vastu Vihar Hajipur PH-06",
+      "phase": "PH-06",
+      "siteAddress": "Cipet College, Near Vastu Vihar Phase-I, Beside Subhai Railway Crossing, Industrial Area, Jandaha Road, Hajipur",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "8102921819",
+        "7488538151"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_jehanabad_main_36",
+      "state": "Bihar",
+      "city": "Jehanabad",
+      "cityNormalized": "jehanabad",
+      "projectName": "Vastu Vihar Jehanabad",
+      "phase": null,
+      "siteAddress": "Ainwan, Jehanabad-Patna Road, Near Piaggio Showroom, Jehanabad, Bihar 804408",
+      "pincode": "804408",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488538179",
+        "7488538120"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_katihar_ph_01_37",
+      "state": "Bihar",
+      "city": "Katihar",
+      "cityNormalized": "katihar",
+      "projectName": "Vastu Vihar Katihar PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Near Sirsa Military Camp, Medical College, Katihar",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "9386256102",
+        "7280023043"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_motihari_ph_01_38",
+      "state": "Bihar",
+      "city": "Motihari",
+      "cityNormalized": "motihari",
+      "projectName": "Vastu Vihar Motihari PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Malkainia, Near Kunwari Devi Chowk, Lakhaura, Motihari",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488528332",
+        "7488048393"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_motihari_ph_02_39",
+      "state": "Bihar",
+      "city": "Motihari",
+      "cityNormalized": "motihari",
+      "projectName": "Vastu Vihar Motihari PH-02",
+      "phase": "PH-02",
+      "siteAddress": "NH-2, Muzaffarpur Road, Bairiya Devi Mandir, Near Reliance Petrol Pump, Motihari",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7280023005",
+        "7488528332"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_motihari_ph_03_40",
+      "state": "Bihar",
+      "city": "Motihari",
+      "cityNormalized": "motihari",
+      "projectName": "Vastu Vihar Motihari PH-03",
+      "phase": "PH-03",
+      "siteAddress": "Jodhara Market, Near Kishunpur Railway Gumti, Motihari, Bihar 845429",
+      "pincode": "845429",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7280023005",
+        "7488528332"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_muzaffarpur_ph_01_41",
+      "state": "Bihar",
+      "city": "Muzaffarpur",
+      "cityNormalized": "muzaffarpur",
+      "projectName": "Vastu Vihar Muzaffarpur PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Pakri Chowk, Near Patai Road Airport, Bhagwanpur Chowk, Muzaffarpur",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "6205971595",
+        "9334522266"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_muzaffarpur_ph_02_42",
+      "state": "Bihar",
+      "city": "Muzaffarpur",
+      "cityNormalized": "muzaffarpur",
+      "projectName": "Vastu Vihar Muzaffarpur PH-02",
+      "phase": "PH-02",
+      "siteAddress": "Ladaura, Near Gobarshahi Road, Bankapur, Muzaffarpur",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7360006475",
+        "9334522266"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_muzaffarpur_ph_03_43",
+      "state": "Bihar",
+      "city": "Muzaffarpur",
+      "cityNormalized": "muzaffarpur",
+      "projectName": "Vastu Vihar Muzaffarpur PH-03",
+      "phase": "PH-03",
+      "siteAddress": "Dighra Rampur Shah, Muzaffarpur, Bihar 843126",
+      "pincode": "843126",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7360006475",
+        "9334522266"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_munger_ph_01_44",
+      "state": "Bihar",
+      "city": "Munger",
+      "cityNormalized": "munger",
+      "projectName": "Vastu Vihar Munger PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Safiyabad Chowk, Near Tata Motors Chandrapura, Morcha, Jamalpur-Munger 811214",
+      "pincode": "811214",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488538169",
+        "9386256130"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_patna_ph_03_45",
+      "state": "Bihar",
+      "city": "Patna",
+      "cityNormalized": "patna",
+      "projectName": "Vastu Vihar Patna PH-03",
+      "phase": "PH-03",
+      "siteAddress": "Mathiyapur, Opposite Omega Mission School, Danapur-Shivala Road, Saguna More, Patna",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488538119",
+        "8102926293"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_patna_ph_04_46",
+      "state": "Bihar",
+      "city": "Patna",
+      "cityNormalized": "patna",
+      "projectName": "Vastu Vihar Patna PH-04",
+      "phase": "PH-04",
+      "siteAddress": "Ashopur, Near Behind D.A.V, Saguna More, Patna",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488538119",
+        "8102926293"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_patna_ph_06_47",
+      "state": "Bihar",
+      "city": "Patna",
+      "cityNormalized": "patna",
+      "projectName": "Vastu Vihar Patna PH-06",
+      "phase": "PH-06",
+      "siteAddress": "Naharpura, Near Baggha Tola, Patna AIIMS – Naubatpur Road, NH-98, Patna",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488538119",
+        "8102926293"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_patna_ph_07_48",
+      "state": "Bihar",
+      "city": "Patna",
+      "cityNormalized": "patna",
+      "projectName": "Vastu Vihar Patna PH-07",
+      "phase": "PH-07",
+      "siteAddress": "Bhusaula, Near D.G.P. House, Patna AIIMS – Naubatpur Road, NH-98, Patna",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488538119",
+        "8102926293"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_patna_ph_08_49",
+      "state": "Bihar",
+      "city": "Patna",
+      "cityNormalized": "patna",
+      "projectName": "Vastu Vihar Patna PH-08",
+      "phase": "PH-08",
+      "siteAddress": "Bela, Patna-Bihta Road, Near Shivala Chowk, Patna",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488538119",
+        "8102926293"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_purnia_ph_01_50",
+      "state": "Bihar",
+      "city": "Purnia",
+      "cityNormalized": "purnia",
+      "projectName": "Vastu Vihar Purnia PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Banbhag Chowk, Jhandaha Road, Purnea",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488535250",
+        "7280023057"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_purnia_ph_02_51",
+      "state": "Bihar",
+      "city": "Purnia",
+      "cityNormalized": "purnia",
+      "projectName": "Vastu Vihar Purnia PH-02",
+      "phase": "PH-02",
+      "siteAddress": "Vastu Vihar, Gulabbagh, Gunda Chowk, Near Ridhi Sidhi Petrol Pump, Purnea-854326",
+      "pincode": "854326",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488535250",
+        "7280023057"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_sasaram_ph_01_02_04_52",
+      "state": "Bihar",
+      "city": "Sasaram",
+      "cityNormalized": "sasaram",
+      "projectName": "Vastu Vihar Sasaram PH-01,02 & 04",
+      "phase": "PH-01,02 & 04",
+      "siteAddress": "Lal Ganj, Tetri, Sasaram",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488047021",
+        "8102921845"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_sasaram_ph_03_53",
+      "state": "Bihar",
+      "city": "Sasaram",
+      "cityNormalized": "sasaram",
+      "projectName": "Vastu Vihar Sasaram PH-03",
+      "phase": "PH-03",
+      "siteAddress": "Kumuhu, Near Toll Tax, PIN-821115, Sasaram",
+      "pincode": "821115",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488047021",
+        "8102921845"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_samastipur_ph_01_54",
+      "state": "Bihar",
+      "city": "Samastipur",
+      "cityNormalized": "samastipur",
+      "projectName": "Vastu Vihar Samastipur PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Vastu Vihar, Harpur Ailoth Musri Ghrari, Samastipur, Bihar 848101",
+      "pincode": "848101",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "9386256139",
+        "8102921860"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_saharsa_ph_01_55",
+      "state": "Bihar",
+      "city": "Saharsa",
+      "cityNormalized": "saharsa",
+      "projectName": "Vastu Vihar Saharsa PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Baidhynathpur Patuaha, Beside Tata Motors, Saharsa, Bihar 852221",
+      "pincode": "852221",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7280023040"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_saharsa_ph_02_56",
+      "state": "Bihar",
+      "city": "Saharsa",
+      "cityNormalized": "saharsa",
+      "projectName": "Vastu Vihar Saharsa PH-02",
+      "phase": "PH-02",
+      "siteAddress": "Near Shree Narayan Medical College, Yadav Chowk, Bheddhadi Road, Patuaha, Saharsa, Bihar 852221",
+      "pincode": "852221",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7280023040",
+        "7209559434"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_madhubani_ph_01_57",
+      "state": "Bihar",
+      "city": "Madhubani",
+      "cityNormalized": "madhubani",
+      "projectName": "Vastu Vihar Madhubani PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Vastu Vihar Yamuna-1, Sahua Pandol Road, Basuara, Nidhi Chowk, Madhubani 847212",
+      "pincode": "847212",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "9386256105",
+        "7488435412"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_sitamarhi_ph_01_58",
+      "state": "Bihar",
+      "city": "Sitamarhi",
+      "cityNormalized": "sitamarhi",
+      "projectName": "Vastu Vihar Sitamarhi PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Vastu Vihar Kailashpuri, Bhau Prasad Road, Near Kali Mandir, Dumra-Sitamarhi-843302",
+      "pincode": "843302",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488538125"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_siwan_ph_01_59",
+      "state": "Bihar",
+      "city": "Siwan",
+      "cityNormalized": "siwan",
+      "projectName": "Vastu Vihar Siwan PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Suta Mill Factory, Near FCI Godown, Mairva Road, Siwan",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "9546670033"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_chhapra_ph_01_60",
+      "state": "Bihar",
+      "city": "Chhapra",
+      "cityNormalized": "chhapra",
+      "projectName": "Vastu Vihar Chhapra PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Chapra Municipal Chowk, Railway Track, Near Bintoli, Behind Four Lane Toward South, Chhapra",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488535202",
+        "8102921832"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_chhapra_ph_02_61",
+      "state": "Bihar",
+      "city": "Chhapra",
+      "cityNormalized": "chhapra",
+      "projectName": "Vastu Vihar Chhapra PH-02",
+      "phase": "PH-02",
+      "siteAddress": "Mauja Brahmpur, Near For Lane, Chhapra",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488535202",
+        "8102921832"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_chhapra_ph_03_62",
+      "state": "Bihar",
+      "city": "Chhapra",
+      "cityNormalized": "chhapra",
+      "projectName": "Vastu Vihar Chhapra PH-03",
+      "phase": "PH-03",
+      "siteAddress": "Mauja Jamuna, Naini Chanchaura Road, Chapra",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488535202",
+        "8102921832"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_bokaro_ph_02_63",
+      "state": "Jharkhand",
+      "city": "Bokaro",
+      "cityNormalized": "bokaro",
+      "projectName": "Vastu Vihar Bokaro PH-02",
+      "phase": "PH-02",
+      "siteAddress": "Chira Chas, Bokaro-827013",
+      "pincode": "827013",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488538181",
+        "7488538184"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_bokaro_ph_04_64",
+      "state": "Jharkhand",
+      "city": "Bokaro",
+      "cityNormalized": "bokaro",
+      "projectName": "Vastu Vihar Bokaro PH-04",
+      "phase": "PH-04",
+      "siteAddress": "Chira Chas, Near Moti Lal Agarwal Factory, Bokaro-827013",
+      "pincode": "827013",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "9905766902",
+        "7488538181"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_bokaro_ph_05_65",
+      "state": "Jharkhand",
+      "city": "Bokaro",
+      "cityNormalized": "bokaro",
+      "projectName": "Vastu Vihar Bokaro PH-05",
+      "phase": "PH-05",
+      "siteAddress": "Behind Satanpur Mountain, Baghrabera, Beside Police Line, Bokaro-827012",
+      "pincode": "827012",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488538181",
+        "7488538184"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_bokaro_ph_06_66",
+      "state": "Jharkhand",
+      "city": "Bokaro",
+      "cityNormalized": "bokaro",
+      "projectName": "Vastu Vihar Bokaro PH-06",
+      "phase": "PH-06",
+      "siteAddress": "Chira Chas, Near K.K. Singh Colony, Bokaro-827013",
+      "pincode": "827013",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "9835683538",
+        "7488538181"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_bokaro_ph_07_67",
+      "state": "Jharkhand",
+      "city": "Bokaro",
+      "cityNormalized": "bokaro",
+      "projectName": "Vastu Vihar Bokaro PH-07",
+      "phase": "PH-07",
+      "siteAddress": "Rajendra Nagar Bari Co-Operative, Near Tetuliya Basti - 827012, Bokaro",
+      "pincode": "827012",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488535213",
+        "7488538181"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_bokaro_ph_08_68",
+      "state": "Jharkhand",
+      "city": "Bokaro",
+      "cityNormalized": "bokaro",
+      "projectName": "Vastu Vihar Bokaro PH-08",
+      "phase": "PH-08",
+      "siteAddress": "Ramdih More, Sector-9, Near Officer Colony - 827009, Bokaro",
+      "pincode": "827009",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488535274",
+        "7488538181"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_deoghar_ph_01_69",
+      "state": "Jharkhand",
+      "city": "Deoghar",
+      "cityNormalized": "deoghar",
+      "projectName": "Vastu Vihar Deoghar PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Vastu Vihar Colony, Deoghar-Sultanganj Road, Kusmaha, Near Paritran Medical College, Deoghar",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "6203212688",
+        "6203212689"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_deoghar_ph_02_70",
+      "state": "Jharkhand",
+      "city": "Deoghar",
+      "cityNormalized": "deoghar",
+      "projectName": "Vastu Vihar Deoghar PH-02",
+      "phase": "PH-02",
+      "siteAddress": "Bilasi More, Punsia, Rampur, Mohanpur, Deoghar, Jharkhand",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "6203212688",
+        "6203212689"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_dhanbad_ph_01_71",
+      "state": "Jharkhand",
+      "city": "Dhanbad",
+      "cityNormalized": "dhanbad",
+      "projectName": "Vastu Vihar Dhanbad PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Kolakusma, Near Balajee Petrol Pump, Baliapur Bypass Road, Dhanbad",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488333026",
+        "7488535265"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_dhanbad_ph_02_72",
+      "state": "Jharkhand",
+      "city": "Dhanbad",
+      "cityNormalized": "dhanbad",
+      "projectName": "Vastu Vihar Dhanbad PH-02",
+      "phase": "PH-02",
+      "siteAddress": "Jialgara, Govindpur Uttrayan, GT Road NH2, Dhanbad, Jharkhand 828109",
+      "pincode": "828109",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "9304434579",
+        "7488535265"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_dhanbad_mountain_view_73",
+      "state": "Jharkhand",
+      "city": "Dhanbad",
+      "cityNormalized": "dhanbad",
+      "projectName": "Vastu Vihar Dhanbad Mountain View",
+      "phase": "Mountain View",
+      "siteAddress": "Mountain View, Kolakusma, Near Balajee Petrol Pump, Baliapur Bypass Road, Dhanbad",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488333026",
+        "7488535265"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_giridih_ph_01_74",
+      "state": "Jharkhand",
+      "city": "Giridih",
+      "cityNormalized": "giridih",
+      "projectName": "Vastu Vihar Giridih PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Sonbhad, Near Bharat Petrol Pump, Giridih",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "6205510322",
+        "7667449729"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_hazaribagh_ph_01_75",
+      "state": "Jharkhand",
+      "city": "Hazaribagh",
+      "cityNormalized": "hazaribagh",
+      "projectName": "Vastu Vihar Hazaribagh PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Patna To Ranchi Highway, Mukundganj Chowk, Hazaribagh",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7280023013"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_hazaribagh_ph_02_76",
+      "state": "Jharkhand",
+      "city": "Hazaribagh",
+      "cityNormalized": "hazaribagh",
+      "projectName": "Vastu Vihar Hazaribagh PH-02",
+      "phase": "PH-02",
+      "siteAddress": "Vastu Vihar Hazaribagh, Babhanbai, Jharkhand 825302",
+      "pincode": "825302",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7280023013"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_jamshedpur_ph_05_77",
+      "state": "Jharkhand",
+      "city": "Jamshedpur",
+      "cityNormalized": "jamshedpur",
+      "projectName": "Vastu Vihar Jamshedpur PH-05",
+      "phase": "PH-05",
+      "siteAddress": "Near Transport Nagar, Road No.-28, Adityapur, Saraikela Kharsawan",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488535260",
+        "7488535221"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_jamshedpur_ph_06_78",
+      "state": "Jharkhand",
+      "city": "Jamshedpur",
+      "cityNormalized": "jamshedpur",
+      "projectName": "Vastu Vihar Jamshedpur PH-06",
+      "phase": "PH-06",
+      "siteAddress": "Asangi, Near NIIT, Adityapur, Saraikela Kharsawan",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7488538137",
+        "7488535278"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_ranchi_ph_01_79",
+      "state": "Jharkhand",
+      "city": "Ranchi",
+      "cityNormalized": "ranchi",
+      "projectName": "Vastu Vihar Ranchi PH-01",
+      "phase": "PH-01",
+      "siteAddress": "BIT Mesra, Near Navodaya Vidyalaya, Ranchi",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7280023038",
+        "7280023039"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_ranchi_ph_02_80",
+      "state": "Jharkhand",
+      "city": "Ranchi",
+      "cityNormalized": "ranchi",
+      "projectName": "Vastu Vihar Ranchi PH-02",
+      "phase": "PH-02",
+      "siteAddress": "Vill. Vastu Vihar, Hardag, P.O. Huluhundu, P.S. Tipudana, Ranchi",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7280023038",
+        "7280023039"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_ranchi_ph_03_81",
+      "state": "Jharkhand",
+      "city": "Ranchi",
+      "cityNormalized": "ranchi",
+      "projectName": "Vastu Vihar Ranchi PH-03",
+      "phase": "PH-03",
+      "siteAddress": "BIT More, Behind Manrakhan B.Ed College, Kedal, Ranchi",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7280023038",
+        "7280023039"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_ranchi_ph_04_82",
+      "state": "Jharkhand",
+      "city": "Ranchi",
+      "cityNormalized": "ranchi",
+      "projectName": "Vastu Vihar Ranchi PH-04",
+      "phase": "PH-04",
+      "siteAddress": "Bukru Bazar, Kanke, Ranchi-Pithoriya Road, Ranchi 834006",
+      "pincode": "834006",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7280023038",
+        "7280023039"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_ranchi_ph_05_83",
+      "state": "Jharkhand",
+      "city": "Ranchi",
+      "cityNormalized": "ranchi",
+      "projectName": "Vastu Vihar Ranchi PH-05",
+      "phase": "PH-05",
+      "siteAddress": "Bukru Bazar, Kanke, Ranchi-Pithoriya Road, Ranchi 834006",
+      "pincode": "834006",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7280023038",
+        "7280023039"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_alipurduar_ph_01_84",
+      "state": "West Bengal",
+      "city": "Alipurduar",
+      "cityNormalized": "alipurduar",
+      "projectName": "Vastu Vihar Alipurduar PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Bairaguri, Banchukamari Gram Panchayat, Near Ujjal Diller's Rashon Shop, 2 KM from Beltola Gas Godown Towards Highway, Alipurduar",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "8170028993",
+        "8170028994"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_asansol_ph_01_85",
+      "state": "West Bengal",
+      "city": "Asansol",
+      "cityNormalized": "asansol",
+      "projectName": "Vastu Vihar Asansol PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Gauri (Mouza), PO Kanyapur, PS Asansol (N), Ward No. 31, Burdwan, Near Asansol Engineering College, NH-2, Asansol",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7797701012"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_durgapur_ph_01_86",
+      "state": "West Bengal",
+      "city": "Durgapur",
+      "cityNormalized": "durgapur",
+      "projectName": "Vastu Vihar Durgapur PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Behind Dr. B.C. Roy Engineering College, Haribazar, Durgapur",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7797701014"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_kolkata_ph_01_87",
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "cityNormalized": "kolkata",
+      "projectName": "Vastu Vihar Kolkata PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Near Bhojerhat Bridge, At-Krolbaria, PO-Beonta-1, PS-Kolkata Leather Complex, Behind New Town, South 24 Parganas 743502",
+      "pincode": "743502",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7070923666",
+        "8100915974"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_siliguri_ph_01_88",
+      "state": "West Bengal",
+      "city": "Siliguri",
+      "cityNormalized": "siliguri",
+      "projectName": "Vastu Vihar Siliguri PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Siliguri Khaprail, Mirik Road, Near Matigara, Siliguri",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7280023001",
+        "8100193607"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_gorakhpur_ph_01_89",
+      "state": "Uttar Pradesh",
+      "city": "Gorakhpur",
+      "cityNormalized": "gorakhpur",
+      "projectName": "Vastu Vihar Gorakhpur PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Siktaur, Near Sahara Estate, Deoria Bypass Road, Gorakhpur, UP-273008",
+      "pincode": "273008",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7903611173",
+        "9369997218"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_mirzapur_ph_01_90",
+      "state": "Uttar Pradesh",
+      "city": "Mirzapur",
+      "cityNormalized": "mirzapur",
+      "projectName": "Vastu Vihar Mirzapur PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Near Atal Chowk, Sagra, Vindhyachal Dham, Mirzapur-Allahabad Highway, Pin-231307",
+      "pincode": "231307",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "9369997221"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_varanasi_ph_01_91",
+      "state": "Uttar Pradesh",
+      "city": "Varanasi",
+      "cityNormalized": "varanasi",
+      "projectName": "Vastu Vihar Varanasi PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Gopalapur, Jivnathpur Road, Near Ram Nagar Tengra More, PO Basant Nagar (UP), Pin-221110",
+      "pincode": "221110",
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7280023050"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_varanasi_ph_02_92",
+      "state": "Uttar Pradesh",
+      "city": "Varanasi",
+      "cityNormalized": "varanasi",
+      "projectName": "Vastu Vihar Varanasi PH-02",
+      "phase": "PH-02",
+      "siteAddress": "Behind BHEL, Babatpur, Varanasi",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "6200187503"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_bhubaneswar_ph_01_93",
+      "state": "Odisha",
+      "city": "Bhubaneswar",
+      "cityNormalized": "bhubaneswar",
+      "projectName": "Vastu Vihar Bhubaneswar PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Mouza-Gaonpada, Vill-Gaonpada, Grama Panchayat-Orkala, Tahshil-Pipli, Dist-Puri",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7070923666",
+        "9337477771"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "site_rourkela_ph_01_94",
+      "state": "Odisha",
+      "city": "Rourkela",
+      "cityNormalized": "rourkela",
+      "projectName": "Vastu Vihar Rourkela PH-01",
+      "phase": "PH-01",
+      "siteAddress": "Kuarmunda Road, Jamuna Naki, Behind Indian Oil Petrol Pump, Rourkela",
+      "pincode": null,
+      "projectType": "Residential",
+      "availableUnits": null,
+      "phones": [
+        "7283007980",
+        "6287798032"
+      ],
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_ProjectSite.aspx?=gpg_SiteContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    }
+  ],
+  "offices": [
+    {
+      "id": "office_ara_0",
+      "state": "Bihar",
+      "city": "Ara",
+      "cityNormalized": "ara",
+      "officeAddress": "1st Floor, Mahuli Tower, K.G Road, Ara-802301",
+      "phones": [
+        "7488049821"
+      ],
+      "email": "ara@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_aurangabad_1",
+      "state": "Bihar",
+      "city": "Aurangabad",
+      "cityNormalized": "aurangabad",
+      "officeAddress": "MG Road, 3rd Floor, Kasa Complex, Infront of Khana Sweets, Opp HP Petrol Pump, Aurangabad-824101",
+      "phones": [
+        "7488538164"
+      ],
+      "email": "aurangabad@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_begusarai_2",
+      "state": "Bihar",
+      "city": "Begusarai",
+      "cityNormalized": "begusarai",
+      "officeAddress": "1st Floor, J.K. Place, Near Kapasia Chowk, NH-31, Begusarai-851117",
+      "phones": [
+        "8102921827"
+      ],
+      "email": "begusarai@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_bettiah_3",
+      "state": "Bihar",
+      "city": "Bettiah",
+      "cityNormalized": "bettiah",
+      "officeAddress": "Areraj Road, Near Saraswati Vidya Mandir School, Barwatsena, Bettiah",
+      "phones": [
+        "7033038999"
+      ],
+      "email": "bettiah@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_bhagalpur_4",
+      "state": "Bihar",
+      "city": "Bhagalpur",
+      "cityNormalized": "bhagalpur",
+      "officeAddress": "Bose Park, MG Road, Behind Bhagalpur X-Ray & Bhawna Hotel, Bhagalpur-812001",
+      "phones": [
+        "7033173111"
+      ],
+      "email": "bhagalpur@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_bihar_sharif_5",
+      "state": "Bihar",
+      "city": "Bihar Sharif",
+      "cityNormalized": "bihar_sharif",
+      "officeAddress": "Jagdish Place, Biharsharif-Rajgir Road, Beside Vegetable Market, Deep Nagar, Bihar Sharif 803111",
+      "phones": [
+        "7488538178"
+      ],
+      "email": "biharsharif@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_buxar_6",
+      "state": "Bihar",
+      "city": "Buxar",
+      "cityNormalized": "buxar",
+      "officeAddress": "Hukha Lalganj Etarhi Road, Buxar-802101",
+      "phones": [
+        "8102921842"
+      ],
+      "email": "buxar@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_darbhanga_7",
+      "state": "Bihar",
+      "city": "Darbhanga",
+      "cityNormalized": "darbhanga",
+      "officeAddress": "Gayatri Complex, 2nd Floor, Near IOC Petrol Pump, Bela More, Darbhanga-846004",
+      "phones": [
+        "9031629544"
+      ],
+      "email": "darbhanga@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_dehri_on_sone_8",
+      "state": "Bihar",
+      "city": "Dehri-On-Sone",
+      "cityNormalized": "dehri_on_sone",
+      "officeAddress": "Sahara Complex, Near Vandana Hotel, Pali Road, Dehri-on-Sone-821307",
+      "phones": [
+        "7488879233",
+        "7781037960"
+      ],
+      "email": "dehrionsone@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_gaya_9",
+      "state": "Bihar",
+      "city": "Gaya",
+      "cityNormalized": "gaya",
+      "officeAddress": "Gitanjali Bhawan, 1st Floor, Besides SBI Life Insurance, Asha Singh More, A.P. Colony, Gaya-823001",
+      "phones": [
+        "8102921823"
+      ],
+      "email": "gaya@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_hajipur_10",
+      "state": "Bihar",
+      "city": "Hajipur",
+      "cityNormalized": "hajipur",
+      "officeAddress": "Ramashish Chowk, R. Bhawan, 2nd Floor, Near Sadar Thana, Hajipur-844101",
+      "phones": [
+        "7488538151"
+      ],
+      "email": "hajipur@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_jehanabad_11",
+      "state": "Bihar",
+      "city": "Jehanabad",
+      "cityNormalized": "jehanabad",
+      "officeAddress": "Ainwan, Jehanabad-Patna Road, Near Piaggio Showroom, Jehanabad, Bihar 804408",
+      "phones": [
+        "7488538179"
+      ],
+      "email": "jehanabad@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_katihar_12",
+      "state": "Bihar",
+      "city": "Katihar",
+      "cityNormalized": "katihar",
+      "officeAddress": "B.M.P 7, Front of Shivpuri Gate, Katihar-854105",
+      "phones": [
+        "8102921851",
+        "8709396008"
+      ],
+      "email": "katihar@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_motihari_13",
+      "state": "Bihar",
+      "city": "Motihari",
+      "cityNormalized": "motihari",
+      "officeAddress": "Nutan Kunj, 2nd Floor, Near YS Hotel, Kachhari Road, Raja Bazar, Motihari-845401",
+      "phones": [
+        "7488528332"
+      ],
+      "email": "motihari@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_muzaffarpur_14",
+      "state": "Bihar",
+      "city": "Muzaffarpur",
+      "cityNormalized": "muzaffarpur",
+      "officeAddress": "1st Floor, Sudhha Trade Centre, Near SBI Bank, Bhagwanpur Chowk, Muzaffarpur-842001",
+      "phones": [
+        "7488535211"
+      ],
+      "email": "muzaffarpur@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_munger_15",
+      "state": "Bihar",
+      "city": "Munger",
+      "cityNormalized": "munger",
+      "officeAddress": "Safiyabad Chowk, Near Tata Motors Chandrapura, Morcha, Jamalpur-Munger 811214",
+      "phones": [
+        "9386256130",
+        "8674892342"
+      ],
+      "email": "munger@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_patna_16",
+      "state": "Bihar",
+      "city": "Patna",
+      "cityNormalized": "patna",
+      "officeAddress": "B/2, 3rd Floor, Grand Chandra Apartment, Fraser Road, Patna-800001",
+      "phones": [
+        "8102926293"
+      ],
+      "email": "patna@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_purnia_17",
+      "state": "Bihar",
+      "city": "Purnia",
+      "cityNormalized": "purnia",
+      "officeAddress": "Vastu Vihar, Gulabbagh, Gunda Chowk, Near Ridhi Sidhi Petrol Pump, Purnea-854326",
+      "phones": [
+        "9523927064"
+      ],
+      "email": "purnea@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_sasaram_18",
+      "state": "Bihar",
+      "city": "Sasaram",
+      "cityNormalized": "sasaram",
+      "officeAddress": "Suman Market, Gaurakshni, P.O. Sasaram, Dist. Rohtas, Sasaram-821115",
+      "phones": [
+        "7488047021"
+      ],
+      "email": "sasaram@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_samastipur_19",
+      "state": "Bihar",
+      "city": "Samastipur",
+      "cityNormalized": "samastipur",
+      "officeAddress": "1st Floor, B-Block, Panchwati Complex, Near B.R.B. College, Mohanpur Road, Samastipur 848101",
+      "phones": [
+        "9386256139"
+      ],
+      "email": "samstipur@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_saharsa_20",
+      "state": "Bihar",
+      "city": "Saharsa",
+      "cityNormalized": "saharsa",
+      "officeAddress": "2nd Floor, Sahu Market, Gandhi Path, Beside BSNL Office, Saharsa-852201",
+      "phones": [
+        "6201549148"
+      ],
+      "email": "saharsa@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_madhubani_21",
+      "state": "Bihar",
+      "city": "Madhubani",
+      "cityNormalized": "madhubani",
+      "officeAddress": "Vastu Vihar Yamuna-1, Sahua Pandol Road, Basuara, Nidhi Chowk, Madhubani 847212",
+      "phones": [
+        "7970638109",
+        "9386256105"
+      ],
+      "email": "madhubani@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_sitamarhi_22",
+      "state": "Bihar",
+      "city": "Sitamarhi",
+      "cityNormalized": "sitamarhi",
+      "officeAddress": "Vastu Vihar Godawari-04, Kailashpuri, Bhau Prasad Road, Near Kali Mandir, Dumra-Sitamarhi-843302",
+      "phones": [
+        "7488538125"
+      ],
+      "email": "sitamarhi@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_siwan_23",
+      "state": "Bihar",
+      "city": "Siwan",
+      "cityNormalized": "siwan",
+      "officeAddress": "Yamuna Small-02, Behind FCI Godown, Bhada Kala, Dist-Siwan-841226",
+      "phones": [
+        "7488538129"
+      ],
+      "email": "siwan@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_chhapra_24",
+      "state": "Bihar",
+      "city": "Chhapra",
+      "cityNormalized": "chhapra",
+      "officeAddress": "Ratanpura Bindtoliya, Chapra, Vastu Vihar Ph-1, 3rd Floor, Shopping Complex, Chapra-841301",
+      "phones": [
+        "8102921832"
+      ],
+      "email": "chapra@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_bokaro_25",
+      "state": "Jharkhand",
+      "city": "Bokaro",
+      "cityNormalized": "bokaro",
+      "officeAddress": "Plot No. HD 15, Behind Nutkhut Sweets, Sec-IV, City Centre, B.S. City, Bokaro-827004",
+      "phones": [
+        "9835347367",
+        "7488538184"
+      ],
+      "email": "bokaro@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_deoghar_26",
+      "state": "Jharkhand",
+      "city": "Deoghar",
+      "cityNormalized": "deoghar",
+      "officeAddress": "Hanuman Tikri, Front of Jalsar Park Gate, Deoghar-814112",
+      "phones": [
+        "7488538169"
+      ],
+      "email": "deoghar@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_dhanbad_27",
+      "state": "Jharkhand",
+      "city": "Dhanbad",
+      "cityNormalized": "dhanbad",
+      "officeAddress": "Hem Tower, Flat-4B, 1st Floor, Luby Circular Road, Randhir Verma Chowk, Dhanbad-826007",
+      "phones": [
+        "7488535262"
+      ],
+      "email": "dhanbad@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_giridih_28",
+      "state": "Jharkhand",
+      "city": "Giridih",
+      "cityNormalized": "giridih",
+      "officeAddress": "Court Road, Bank of India Building, Near Navjeevan Nursing Home, Giridih, Jharkhand-815301",
+      "phones": [
+        "6205510322"
+      ],
+      "email": "giridih@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_hazaribagh_29",
+      "state": "Jharkhand",
+      "city": "Hazaribagh",
+      "cityNormalized": "hazaribagh",
+      "officeAddress": "Vastu Vihar Colony, NH-33, Patna-Ranchi Road, Mukundganj Chowk, Hazaribagh-825301",
+      "phones": [
+        "7970638109"
+      ],
+      "email": "hazaribagh@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_jamshedpur_30",
+      "state": "Jharkhand",
+      "city": "Jamshedpur",
+      "cityNormalized": "jamshedpur",
+      "officeAddress": "518-519, 5th Floor, Asiana Trade Centre, Adityapur, Jamshedpur-831013",
+      "phones": [
+        "7488535221"
+      ],
+      "email": "jamshedpur@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_ranchi_31",
+      "state": "Jharkhand",
+      "city": "Ranchi",
+      "cityNormalized": "ranchi",
+      "officeAddress": "2nd Floor, UNI Height, Kantatoli Chowk, Ranchi-834001",
+      "phones": [
+        "7280023038"
+      ],
+      "email": "ranchi@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_alipurduar_32",
+      "state": "West Bengal",
+      "city": "Alipurduar",
+      "cityNormalized": "alipurduar",
+      "officeAddress": "Vastu Vihar, Bairaguri, PO-Ghagra, PS+Dist-Alipurduar, Pin-736122, West Bengal",
+      "phones": [
+        "8170028993",
+        "8170028994"
+      ],
+      "email": "alipurduar@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_asansol_33",
+      "state": "West Bengal",
+      "city": "Asansol",
+      "cityNormalized": "asansol",
+      "officeAddress": "NH-2, Garui, Kanyapur, Asansol (N), Ward No. 31, Burdwan, Near Asansol Engineering College, Asansol-713304",
+      "phones": [
+        "6287895074"
+      ],
+      "email": "asansol@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_durgapur_34",
+      "state": "West Bengal",
+      "city": "Durgapur",
+      "cityNormalized": "durgapur",
+      "officeAddress": "14/16, Sepco Township, Near Jol Tanki, Durgapur-713205",
+      "phones": [
+        "7797701014",
+        "7797701015"
+      ],
+      "email": "durgapur@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_kolkata_35",
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "cityNormalized": "kolkata",
+      "officeAddress": "Near Bhojerhat Bridge, At-Krolbaria, PO-Beonta-1, PS-Kolkata Leather Complex, Behind New Town, South 24 Parganas 743502",
+      "phones": [
+        "8100915974"
+      ],
+      "email": "kolkata@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_siliguri_36",
+      "state": "West Bengal",
+      "city": "Siliguri",
+      "cityNormalized": "siliguri",
+      "officeAddress": "Joshi Kunj, 1st Floor, Opp. Aakashwani Bhawan, 2nd Mile, Sevoke Road, Siliguri-734001, Jalpaiguri",
+      "phones": [
+        "6287798021"
+      ],
+      "email": "siliguri@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_gorakhpur_37",
+      "state": "Uttar Pradesh",
+      "city": "Gorakhpur",
+      "cityNormalized": "gorakhpur",
+      "officeAddress": "Vastu Vihar, Ganga Apartment, C Block, Siktaur, Near Sahara Estate, Deoria Bypass Road, Gorakhpur, UP-273010",
+      "phones": [
+        "7903611173"
+      ],
+      "email": "gorakhpur@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_mirzapur_38",
+      "state": "Uttar Pradesh",
+      "city": "Mirzapur",
+      "cityNormalized": "mirzapur",
+      "officeAddress": "Near Atal Chowk, Sagra, Vindhyachal Dham, Mirzapur-Allahabad Highway, Pin-231307",
+      "phones": [
+        "9336341114"
+      ],
+      "email": "mirzapur@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_varanasi_39",
+      "state": "Uttar Pradesh",
+      "city": "Varanasi",
+      "cityNormalized": "varanasi",
+      "officeAddress": "C/O Rajeshwaram, B 25/33-192, Jawahar Nagar Extension Colony, Hanuman Pura, Near Guru Dham Chowraha, Varanasi (UP), Pin-221010",
+      "phones": [
+        "9336341114"
+      ],
+      "email": "varanasi@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_bhubaneswar_40",
+      "state": "Odisha",
+      "city": "Bhubaneswar",
+      "cityNormalized": "bhubaneswar",
+      "officeAddress": "At-G-2, Gaonpada (Grass Farm), Near Pipli Toll Gate, PO+PS-Pipli, Dist-Puri, Pin-752104, Odisha",
+      "phones": [
+        "9031629545"
+      ],
+      "email": "bhubaneswar@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    },
+    {
+      "id": "office_rourkela_41",
+      "state": "Odisha",
+      "city": "Rourkela",
+      "cityNormalized": "rourkela",
+      "officeAddress": "Vastu Vihar, Khata No. 133/134, Plot No. 613, Padampur, Kuarmunda, Sundargarh, Odisha-770039",
+      "phones": [
+        "7283007980"
+      ],
+      "email": "rourkela@vastuvihar.org",
+      "sourceUrl": "https://www.vastuvihar.org/Contact_at_Branch.aspx?=gpg_BranchContact",
+      "sourceType": "official_website",
+      "lastVerified": "2026-09-06"
+    }
+  ]
+}

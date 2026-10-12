@@ -1,0 +1,128 @@
+{
+  "flats": [
+    {
+      "modelCode": "NANO_1BHK",
+      "name": "1 BHK Flat (Nano)",
+      "bhk": 1,
+      "superBuiltUpArea": 500,
+      "builtUpArea": 350,
+      "carpetArea": 325,
+      "unit": "sqft",
+      "roomDimensions": {
+        "drawingDiningWithOpenKitchen": "15'11\" × 10'0\"",
+        "kitchenSlab": "6'6\" × 1'6\"",
+        "bedroom": "11'06\" × 10'0\"",
+        "toilet": "4'00\" × 6'6\"",
+        "balcony": "4'5\" × 3'6\""
+      },
+      "parking": {
+        "bike": { "dimensions": "5'0\" × 8'0\"", "areaSqft": 40 },
+        "car": { "dimensions": "8'6\" × 14'6\"", "areaSqft": 126 }
+      }
+    },
+    {
+      "modelCode": "GANGA_2BHK",
+      "name": "2 BHK Flat (Ganga)",
+      "bhk": 2,
+      "superBuiltUpArea": 700,
+      "builtUpArea": 510,
+      "carpetArea": 450,
+      "unit": "sqft",
+      "roomDimensions": {
+        "drawingDining": "13'09\" × 10'0\"",
+        "openKitchen": "6'09\" × 5'0\"",
+        "bedroom1": "10'00\" × 11'0\"",
+        "bedroom2": "10'00\" × 11'0\"",
+        "toilet": "6'4\" × 4'7\"",
+        "balcony": "8'3\" × 3'0\""
+      },
+      "parking": {
+        "bike": { "dimensions": "5'0\" × 8'0\"", "areaSqft": 40 },
+        "car": { "dimensions": "8'6\" × 14'6\"", "areaSqft": 126 }
+      }
+    },
+    {
+      "modelCode": "ADITY_3BHK",
+      "name": "3 BHK Flat (Adity)",
+      "bhk": 3,
+      "superBuiltUpArea": 1100,
+      "builtUpArea": 750,
+      "carpetArea": 670,
+      "unit": "sqft",
+      "roomDimensions": {
+        "drawingDining": "14'07\" × 8'11\"",
+        "kitchen": "5'3\" × 7'3\"",
+        "masterBedroom": "10'02\" × 12'8\"",
+        "attachedToilet": "4'6\" × 10'1\"",
+        "bedroom2": "10'06\" × 8'10\"",
+        "bedroom3": "14'07\" × 8'10\"",
+        "commonToilet": "5'3\" × 10'1\"",
+        "wideBalcony": "10'2\" × 3'6\""
+      },
+      "parking": {
+        "bike": { "dimensions": "5'0\" × 8'0\"", "areaSqft": 40 },
+        "car": { "dimensions": "8'6\" × 14'6\"", "areaSqft": 126 }
+      }
+    }
+  ],
+  "bungalows": [
+    {
+      "modelCode": "YAMUNA_BIG",
+      "name": "Yamuna Big Bungalow",
+      "bhk": 5,
+      "builtUpArea": 2200,
+      "plotArea": 1600,
+      "groundFloorArea": 1030,
+      "firstFloorArea": 1170,
+      "plotDimensions": "40' × 40'",
+      "floors": "G+1",
+      "amenities": ["Covered Parking", "Pergola", "Gazebo Garden", "Rooftop Terrace", "Granite Kitchen"]
+    },
+    {
+      "modelCode": "YAMUNA_SMALL",
+      "name": "Yamuna Small Bungalow",
+      "bhk": 4,
+      "builtUpArea": 1920,
+      "plotArea": 1400,
+      "groundFloorArea": 865,
+      "firstFloorArea": 955,
+      "plotDimensions": "35' × 40'",
+      "floors": "G+1",
+      "amenities": ["Covered Porch", "Balcony", "Private Garden"]
+    },
+    {
+      "modelCode": "JAYANTI_NEW",
+      "name": "Jayanti New Model",
+      "bhk": 3,
+      "builtUpArea": 1300,
+      "plotArea": 900,
+      "groundFloorArea": 637,
+      "firstFloorArea": 560,
+      "plotDimensions": "30' × 30'",
+      "floors": "G+1",
+      "amenities": ["Front Verandah", "Car Porch", "Drawing-Dining"]
+    },
+    {
+      "modelCode": "ANANTA",
+      "name": "Ananta Bungalow",
+      "bhk": 3,
+      "builtUpArea": 1800,
+      "carpetArea": 1350,
+      "plotArea": 1400,
+      "plotDimensions": "35' × 40'",
+      "floors": "G+1",
+      "amenities": ["Private Lawn", "Car Parking", "Modular Kitchen"]
+    },
+    {
+      "modelCode": "CEO_LUXURY",
+      "name": "CEO Ultra Luxury Bungalow",
+      "bhk": 5,
+      "builtUpArea": 3400,
+      "carpetArea": 2550,
+      "plotArea": 2400,
+      "plotDimensions": "40' × 60'",
+      "floors": "G+2",
+      "amenities": ["Private Swimming Pool", "Gym Room", "Yoga Deck", "Pergola Rooftop", "Double Car Garage"]
+    }
+  ]
+}
